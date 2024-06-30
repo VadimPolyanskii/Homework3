@@ -19,5 +19,4 @@ new_num = set(new_user_num)
 lst_num = list(new_num)
 print("Список уникальных элементов без порядка: ", lst_num)
 
-# 33,67;87;43/21/3/4/4/4/90;7,5,1
 
